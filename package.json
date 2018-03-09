@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ivan Mora",
-  "license": "ISC"
+  "author": "Tiffany Robbins",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lillialskye/Sprint-Challenge-Node-Express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lillialskye/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/lillialskye/Sprint-Challenge-Node-Express#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
